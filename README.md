@@ -20,5 +20,16 @@
     * 연이자부담지수, 증감율 등
 
 #### < 2. Modeling >
-* df
+* DNN, RandomForest, LGBM, CatBoost 모델 사용하여 예측 모델 개발
+* 분류된 예측값을 기준으로 K-Means로 고객 군집화 진행
+
+#### < 3. EDA >
+* 분류된 군집별로 각각 EDA 진행
+
+< 예시 >
+
+<img width="613" alt="image" src="https://user-images.githubusercontent.com/87609200/215314811-11c3bbfa-cc52-406e-9bbb-399d91f226eb.png">
+
+<img width="1087" alt="image" src="https://user-images.githubusercontent.com/87609200/215314829-55284ebb-a82b-4e30-af02-561f36b7cafe.png">
+
 
